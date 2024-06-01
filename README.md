@@ -7,7 +7,7 @@
 ### To perfrom the CRUD operations refer the POSTMAN documentation as reference to end points.
 
 ## CRUD Opeartions for MENTOR :
-### BASE URL : https://nodejs-day-3-task-10j3.onrender.com/api/
+### BASE URL : https://nodejs-day-3-task-10j3.onrender.com
 
 ## 🔖Endpoints
 
@@ -32,7 +32,7 @@ Method - POST
 ### Method - DELETE
 
 ## CRUD Opeartions for STUDENT :
-###  BASE URL : https://nodejs-day-3-task-10j3.onrender.com/api/
+###  BASE URL : https://nodejs-day-3-task-10j3.onrender.com
 ## 🔖Endpoints
 
 ###  ➡️ Create Student
@@ -56,7 +56,7 @@ Method - PUT
 ###  Method - DELETE
 
 ##  Opeartions for Student Assingment :
-###  BASE URL : https://nodejs-day-3-task-10j3.onrender.com/api/
+###  BASE URL : https://nodejs-day-3-task-10j3.onrender.com
 
 ## 🔖Endpoints
 
